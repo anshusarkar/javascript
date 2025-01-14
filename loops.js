@@ -15,11 +15,11 @@ let obj = {
     company: "CodeWithHarry AI"
 }
  
-for (const key in obj) {  
+for (const key in obj) {  // for in loop
         console.log(key)
 }
 
-for (const c of "Harry") {
+for (const c of "Harry") { // for of loop
     console.log(c)
 }
 
