@@ -1,2 +1,3 @@
 Java script is created by Brendan Eich in 10 days in 1995 later it was standardized as ECMAScript starting in 1997 
 meaning early version of java script is known as ECMAScript .
+BTW ; are optionals in js 
